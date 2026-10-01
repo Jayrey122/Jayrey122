@@ -63,13 +63,13 @@ a:hover {
 div {
     width: 500px;                   /* Content width */
     height: 200px;                  /* Content height */
-    background-color: #c4b6bf;       /* Soft gold/yellow fill */
+    background-color: #faeaf4;       /* Soft gold/yellow fill */
     border: 3px solid #000000;       /* Noticeable solid border */
     padding: 50px;                  /* Internal space between text and border */
     margin: 30px auto;              /* External space; 'auto' centers the box horizontally */
     
     /* Optional enhancements for polish */
     font-weight: bold;
-    color: #2d3436;
+    color: #000000;
     text-align: center;
 }
