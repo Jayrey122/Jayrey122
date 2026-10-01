@@ -6,7 +6,7 @@ Create a personal website that introduces me, Jazmine Reynolds, and demonstrate 
 
 ## Description
 
-The project will create a webpage called 'index.html.' The website will introduce me, Jazmine, and describe my academic and career goals, lost my hobbies, and include a hyperlink to GitHub.
+The project will create a webpage called 'index.html.' The website will introduce me, Jazmine, and describe my academic and career goals, list my hobbies, and include a hyperlink to GitHub.
 
 The webpage will contain a title, headings, paragraphs, an unordered list, and a hyperlink.
 
@@ -20,6 +20,5 @@ The webpage will contain a title, headings, paragraphs, an unordered list, and a
 
 ## Exclusions
 
-- Multiple webpages.
 - A resume or complete biography.
 - Videos and audio.
