@@ -34,4 +34,5 @@ I am a Computer Science student and special education paraprofessional. My goal 
 **Jazmine Reynolds**
 
 - [GitHub Profile](https://github.com/Jayrey122)
+- [Personal Portfolio Website](https://jayrey122.github.io/Jayrey122/)
 - [Gamification Knowledge Base](https://jayrey122.github.io/knowledge-base-3302/)
