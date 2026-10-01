@@ -61,10 +61,10 @@ a:hover {
    ========================================================================== */
 
 div {
-    width: 250px;                   /* Content width */
-    height: 120px;                  /* Content height */
-    background-color: #c6238d;       /* Soft gold/yellow fill */
-    border: 3px solid #4a4a4a;       /* Noticeable solid border */
+    width: 600px;                   /* Content width */
+    height: 300px;                  /* Content height */
+    background-color: #be8fae;       /* Soft gold/yellow fill */
+    border: 3px solid #000000;       /* Noticeable solid border */
     padding: 50px;                  /* Internal space between text and border */
     margin: 30px auto;              /* External space; 'auto' centers the box horizontally */
     
